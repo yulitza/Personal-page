@@ -1,10 +1,10 @@
 # Site settings
-title: Maria Matteo
+title: Maria Teresa Matteo Cassino
 url: https://mariate25.github.io/Traducciones/
 description: "Traducciones de todo tipo de documentos en ingles, español e italiano. Servicio de traduccion presencial"
-keywords: "traduccion, ingles, italiano, español, inteprete público"
-skills: "Traductor Oficial - Intérprete Público"
-meta_author: Matteo Maria
+keywords: "traduccion, ingles, italiano, español, inteprete presencial"
+skills: "Interprete Trolingue - Redactora - Ingeniero - Pianista"
+meta_author: Maria Teresa Matteo Cassino
 
 # Google webmaster tools
 google_verify:
@@ -31,14 +31,16 @@ color:
 
 # Footer settings
 footer:
-  copyright: Maria Matteo © 2020 -- Tema original de <a href="https://startbootstrap.com/">starbootstrap.com</a>
-  location: Ubicación
+  copyright: Maria Matteo © 2019 -- Tema original de <a href="https://startbootstrap.com/">starbootstrap.com</a>
+  location: Venezuela - USA
   social: Around the Web
 
 # Postal address (add as many lines as necessary)
 address:
-  - Linea 1 de dirección
-  - Linea 2 de dirección
+   Calle 31 entre Avenidas 25 y 26
+   Edificio "Cassino" Apartamento #2
+   Acarigua - Estado Portuguesa
+   VENEZUELA 3301
 
 # Build settings
 markdown: kramdown

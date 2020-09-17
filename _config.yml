@@ -34,9 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: |
-    Maria Matteo © 2020 -- Este sitio web es propiedad y administrado por Maria Matteo
-    <br>
-    Tema original de <a href="https://startbootstrap.com/">starbootstrap.com</a>
+    Maria Matteo
   location: Venezuela - USA
 
 # Postal address (add as many lines as necessary)

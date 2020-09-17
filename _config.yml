@@ -3,7 +3,7 @@ title: Maria Teresa Matteo Cassino
 short_title: María Matteo
 
 url: https://mariate25.github.io/Traducciones/
-description: "Traducciones de todo tipo de documentos en inglés, español e italiano. Servicio de traduccion presencial"
+description: "Traducciones de todo tipo de documentos en Inglés, Español e Italiano. Servicio de traduccion presencial"
 keywords: "traduccion, ingles, italiano, español, inteprete presencial"
 skills: "Intérprete Trilingüe - Redactora - Ingeniero - Pianista"
 meta_author: Maria Teresa Matteo Cassino
@@ -33,7 +33,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Maria Matteo © 2019 -- Tema original de <a href="https://startbootstrap.com/">starbootstrap.com</a>
+  copyright: |
+    Maria Matteo © 2020 -- Este sitio web es propiedad y administrado por Maria Matteo
+    <br>
+    Tema original de <a href="https://startbootstrap.com/">starbootstrap.com</a>
   location: Venezuela - USA
 
 # Postal address (add as many lines as necessary)

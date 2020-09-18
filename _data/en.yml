@@ -1,35 +1,33 @@
 general:
-  skills: TRANSLATE-THIS!!! Intérprete Trilingüe - Redactora - Ingeniero - Pianista
+  skills: Translator - Copywrriter - Engineer - Pianist
 
   portfolio:
-    title: TT!! Servicios
+    title: Services
 
   about: 
-    title: TT!!Acerca de mí
-    payment_note: TT!!Acepto pagos en Paypal y Payoneer.
+    title: About me
+    payment_note: Payments via Paypal and Payoneer.
     personal_summary: |
-      TT!!Hola, me llamo Maria Teresa Matteo Cassino, profesional en idiomas,
-      Ingeniero y Pianista, nativa Venezolana con ascendencia Italiana
+      Hi! My name is Maria Teresa Matteo Cassino, polyglot,
+      Engineer and Pianist, Venezuelan native with Italian background
     professional_summary: |
-      TT!!Te ofrezco mis servicios de traducciones de cualquier tipo de textos
-      y documentos y/o servicios de interprete presencial entre los idiomas:
-      Español, Italiano e Inglés.
+      I offer my translation services for legal documents and any other text among the following languages: English, Italian and Spanish.
 
   contact:
-    title: TT!!Contacto
+    title: Contact
     content: |
-      TT!! [Llena el formulario de contacto](https://forms.gle/mRSqGF6D53C3ESiH7) y me pondré en contacto contigo!
+      please fulfill the contact request: (https://forms.gle/mRSqGF6D53C3ESiH7) y me pondré en contacto contigo!
 
   copyright: |
     Maria Matteo
 
-  location: Venezuela - USA
+  location: Venezuela 
 
   # Postal address (add as many lines as necessary)
   address:
-    title: TT!!Ubicación
+    title: Location
     content:
-     - TT!!Calle 31 entre Avenidas 25 y 26
+     - Calle 31 entre Avenidas 25 y 26
      - Edificio "Cassino" Apartamento #2
      - Acarigua - Estado Portuguesa
      - VENEZUELA 3301

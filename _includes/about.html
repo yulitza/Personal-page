@@ -1,36 +1,43 @@
+{% assign general_data=site.data[page.lang].general %}
  <!-- About Section -->
     <section class="success" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Acerca de mi</h2>
+                    <h2>{{ general_data.about.title }}</h2>
                     <hr class="star-light">
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Hola, me llamo Maria Teresa Matteo Cassino, profesional en idiomas, Ingeniero y Pianista, nativa Venezolana con ascendencia Italiana </p>
+                    {{ general_data.about.personal_summary | markdownify }}
                 </div>
                 <div class="col-lg-4">
-                    <p>Te ofrezco mis servicios de traducciones de cualquier tipo de textos y documentos y / o servicios de interprete presencial entre los idiomas: Español, Italiano e Inglés</p>
+                    {{ general_data.about.professional_summary | markdownify }}
                 </div>
             </div>
             <p>&nbsp;</p>
             <div class="row">
                 <div class="col-xs-4">
-                    <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" class="img-fluid flag-fixed-height">
+                    <a href="{{ "/it/" | relative_url }}">
+                        <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" class="img-fluid flag-fixed-height">
+                    </a>
                 </div>
                 <div class="col-xs-4">
-                    <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" class="img-fluid flag-fixed-height">
+                    <a href="{{ "/" | relative_url }}">
+                        <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" class="img-fluid flag-fixed-height">
+                    </a>
                 </div>
                 <div class="col-xs-4">
-                    <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" class="img-fluid flag-fixed-height">
+                    <a href="{{ "/en" | relative_url }}">
+                        <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" class="img-fluid flag-fixed-height">
+                    </a>
                 </div>
             </div>
             <p>&nbsp;</p>
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <p>Acepto pagos en Paypal y Payoneer.</p>
+                    {{ general_data.about.payment_note | markdownify }}
                 </div>
             </div>
         </div>

@@ -1,22 +1,33 @@
+{% assign general_data=site.data[page.lang].general %}
     <!-- Footer -->
     <footer class="text-center">
-        <div class="footer-below">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                       Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
-<br>
-                          Este sitio web es propiedad y administrado por Maria Matteo.
-                          <br>
-                          Tema original de <a href="https://startbootstrap.com/">starbootstrap.com</a>
-                        <br>
-                          Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
-                          
-                        </p>
-                    </div>
-                </div>
+      <div class="footer-above">
+        <div class="container">
+          <div class="row">
+            <div class="footer-col col-xs-12 col-md-offset-4 col-md-4">
+              <h3>{{ general_data.address.title }}</h3>
+              <p>
+                {% for line in general_data.address.content %}
+                {{ line }}
+                {% unless forloop.last == true %}<br>{% endunless %}
+                {% endfor %}
+              </p>
             </div>
+          </div>
         </div>
+      </div>
+      <div class="footer-below">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+               Copyright &copy; {{ general_data.copyright }} 20{{ site.time | date: '%y' }} &mdash; {{ site.title }}
+            </div>
+            <div class="col-lg-12">
+              {{ general_data.footer | markdownify }}
+            </div>
+          </div>
+        </div>
+      </div>
     </footer>
 
     <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->

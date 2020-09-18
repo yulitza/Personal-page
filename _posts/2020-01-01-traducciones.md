@@ -12,7 +12,8 @@ translation:
   en:
     title: Translations
     description: |
-      TRANSLATE-THIS!!! Servicios de traduccciones y textos de cualquier tipo de documentos online, servicio de intérprete presencial (Español - Inglés - Italiano).
+          I offer my translation services for legal documents and any other text among the following languages: English, Italian and Spanish.
+
   it:
     title: TRANSLATE-THIS!!! Traducciones
     description: |

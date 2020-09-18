@@ -6,7 +6,7 @@ general:
 
   about: 
     title: Acerca de mí
-    payment_note: Acepto pagos en Paypal y Payoneer.
+    payment_note: Acepto pagos vía Paypal y Payoneer.
     personal_summary: |
       Hola, me llamo Maria Teresa Matteo Cassino, profesional en idiomas,
       Ingeniero y Pianista, nativa Venezolana con ascendencia Italiana
@@ -23,7 +23,7 @@ general:
   copyright: |
     Maria Matteo
 
-  location: Venezuela - USA
+  location: Venezuela
 
   # Postal address (add as many lines as necessary)
   address:

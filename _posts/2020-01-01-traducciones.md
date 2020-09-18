@@ -17,5 +17,8 @@ translation:
   it:
     title: Traduzzioni
     description: |
-      TRANSLATE-THIS!!! Servicios de traduccciones y textos de cualquier tipo de documentos online, servicio de intérprete presencial (Español - Inglés - Italiano).
+      Ti offro i miei servizi di traduzione per qualsiasi tipo de testo
+      e documenti legali tra le lingue:
+      Spagnolo, Italiano e Inglese.
+
 ---

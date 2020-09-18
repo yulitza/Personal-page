@@ -18,7 +18,7 @@ general:
   contact:
     title: Contatto
     content: |
-      Compila il modulo de contatto (https://forms.gle/mRSqGF6D53C3ESiH7) y me pondré en contacto contigo
+      Compila il modulo de contatto (https://forms.gle/mRSqGF6D53C3ESiH7) 
   copyright: |
     Maria Matteo
 
@@ -28,7 +28,7 @@ general:
   address:
     title: Posizione
     content:
-     - TT!!Calle 31 entre Avenidas 25 y 26
+     - Calle 31 entre Avenidas 25 y 26
      - Edificio "Cassino" Apartamento #2
      - Acarigua - Estado Portuguesa
      - VENEZUELA 3301

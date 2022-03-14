@@ -494,3 +494,9 @@ footer .footer-below {
         max-height: 80px;
     }
 }
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    background-color:  #{{ site.color.primary }};
+}

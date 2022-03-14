@@ -1,8 +1,8 @@
 # Site settings
-title: Maria Teresa Matteo Cassino
-short_title: María Matteo
+title: Yulitza Carvajal
+short_title: Yulitza Carvajal
 
-url: https://mariamatteo.com/
+url: https://yulitza.github.io/Personal-page/
 
 description: "Traducciones de todo tipo de documentos en Inglés, Español e Italiano. Servicio de traduccion presencial"
 keywords: "traduccion, ingles, italiano, español, inteprete presencial"
@@ -16,17 +16,17 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: ffa8f3 #80B3FF
+  primary-rgb: '255,168,243' #"128,179,255"
+  secondary: bd6fac
+  secondary-dark: '189,111,172'
 
 # Build settings
 markdown: kramdown

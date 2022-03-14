@@ -1,19 +1,20 @@
 general:
-  skills: Intérprete Trilingüe - Redactora - Ingeniero - Pianista
-
+  skills: Competente en proporcionar motivación, dirección, apoyo diario al equipo,
+  atención al cliente, documentación de avances, disciplina y responsabilidad en el cumplimiento de objetivos.
   portfolio:
     title: Servicios
 
   about: 
     title: Acerca de mí
-    payment_note: Acepto pagos vía Paypal y Payoneer.
+    payment_note: Acepto pagos vía Paypal, Uphold, binance.
     personal_summary: |
-      Hola, me llamo Maria Teresa Matteo Cassino, profesional en idiomas,
-      Ingeniero y Pianista, nativa Venezolana con ascendencia Italiana
+      Hola, me llamo Yulitza Carvajal, Venezolana, profesional en Sistemas,
+      Ingeniero y amante de Salsa Casino
     professional_summary: |
-      Te ofrezco mis servicios de traducciones de cualquier tipo de textos
-      y documentos y/o servicios de interprete presencial entre los idiomas:
-      Español, Italiano e Inglés.
+      Gestiono proyectos en pro de la transformación de las empresas, 
+      empleando metodologías ágiles en busca siempre del trabajo en equipo 
+      con comunicación asertiva, manteniéndolos enfocados en la búsqueda de 
+      soluciones y mejoras ideales para el proyecto con plazos y fechas de entrega establecidas.
 
   contact:
     title: Contacto
@@ -21,7 +22,7 @@ general:
       [Llena el formulario de contacto](https://forms.gle/mRSqGF6D53C3ESiH7) y me pondré en contacto contigo!
 
   copyright: |
-    Maria Teresa Matteo Cassino
+    Yulitza Carvajal
 
   location: Venezuela
 
@@ -29,14 +30,13 @@ general:
   address:
     title: Ubicación
     content:
-     - Calle 31 entre Avenidas 25 y 26
-     - Edificio "Cassino" Apartamento #2
-     - Acarigua - Estado Portuguesa
-     - VENEZUELA 3301
+     - Calle Banco Obrero
+     - Cumaná - Estado Sucre
+     - VENEZUELA 6101
   footer: |
     <p class="mb-0 small">
       Tema original de <a href="https://startbootstrap.com/">starbootstrap.com</a>
       Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
       <br>
-      Este sitio web es propiedad y administrado por Maria Matteo.
+      Este sitio web es propiedad y administrado por Yulitza Carvajal.
     </p>
